@@ -358,7 +358,7 @@ common shared
     , optparse-applicative >= 0.14.3 && < 0.17
     , relude >= 1.0.0 && < 1.1.0
     , serialise >= 0.2.1 && < 0.3
-    , template-haskell >= 2.13 && < 2.18
+    , template-haskell >= 2.13 && < 2.19
     , time >= 1.8.0 && < 1.9 || >= 1.9.3 && < 1.10
   ghc-options:
     -Wall
